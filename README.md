@@ -6,5 +6,5 @@ and updating the getRatio and getDataPoint methods in client3.py to compute the 
 <img src="images/screenshot1.png" style="border: 5px solid #ccc;">
 <img src="images/screenshot2.png" style="border: 5px solid #ccc;">
 
-[![Watch the video](https://img.youtube.com/vi/KTYlA0cbvDA/maxresdefault.jpg)](https://youtu.be/KTYlA0cbvDA)
+[![Watch the video](https://img.youtube.com/vi/KTYlA0cbvDA/maxresdefault.jpg)](https://youtu.be/KTYlA0cbvDA) 
 
